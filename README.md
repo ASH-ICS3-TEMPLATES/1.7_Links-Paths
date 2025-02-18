@@ -44,7 +44,7 @@ Ever think of how many files are on Wikipedia.org or Amazon.ca? Keeping your fil
 
 Developers use folders and proper naming conventions to make their work easier. Let's look at a typical structure:
 
-Source: {Web-D 01} File and folder structure
+![](Directories.gif)
 
 - The first page of your site must be in the root folder (lowest or main folder) and for default web servers, it must be named `index.html`.
 - You can change the home page filename but the server would need to be configured to do so.
@@ -59,20 +59,12 @@ We will keep using the same repo from 1.5:
 
 - Create a folder for pages.
 - Inside your new pages folder, create a new HTML file (following proper structure) called `history.html`.
-
-This new page is for historical information or facts about your topic.
-
-Be very careful - if this new page has pictures, you're going to need to learn about file paths!
-
-Feel free to add as many pictures as you want but always store them in your images folder.
-
-Feel free to add as many extra pages as you want but always store them in your pages or html folder.
-
+- This new page is for historical information or facts about your topic.
+- Be very careful - if this new page has pictures, you're going to need to [learn about file paths!](https://www.w3schools.com/html/html_filepaths.asp)
+- Feel free to add as many pictures as you want but always store them in your images folder.
+- Feel free to add as many extra pages as you want but always store them in your pages or html folder.
 ## Extra
 
-- Entire list of HTML tags by category and by alphabet.
-- The HTML syntax guide.
-- The CSS Reference.
-```
-
-I hope this helps! Let me know if you need any more assistance. 😊
+- Entire list of HTML tags [by category](https://www.w3schools.com/tags/ref_byfunc.asp) and by [alphabet.](https://www.w3schools.com/tags/default.asp)
+- [The HTML syntax guide.](https://www.w3schools.com/html/html5_syntax.asp)
+- [The CSS Reference.](https://www.w3schools.com/cssref/index.php)

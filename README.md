@@ -1,5 +1,5 @@
 # Review
-
+ICS3 - Mr. J 🐧
 If you've been absent, you would benefit from catching up on the previous lessons.
 
 - We have looked at the [structure of an HTML document](https://www.w3schools.com/html/html_intro.asp) and several tags:
@@ -68,3 +68,4 @@ We will keep using the same repo from 1.5:
 - Entire list of HTML tags [by category](https://www.w3schools.com/tags/ref_byfunc.asp) and by [alphabet.](https://www.w3schools.com/tags/default.asp)
 - [The HTML syntax guide.](https://www.w3schools.com/html/html5_syntax.asp)
 - [The CSS Reference.](https://www.w3schools.com/cssref/index.php)
+🐧
